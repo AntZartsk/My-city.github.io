@@ -1,0 +1,11 @@
+.rounded-img {
+  width: 60%;
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+  padding: 0.8em;
+  margin-bottom: 1em;
+}
+html {
+  overflow-x: hidden;
+  overflow-y: hidden;
+}

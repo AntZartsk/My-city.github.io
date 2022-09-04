@@ -1,0 +1,33 @@
+.card {
+  border-radius: 1em;
+  text-align: center;
+  padding: 1em;
+}
+
+.card img {
+  border-radius: 50%;
+  width: 60%;
+  margin: auto;
+}
+body {
+  background: pink;
+}
+
+.text {
+  text-align: left;
+}
+h3 {
+  font-size: 200%;
+  color: black;
+  text-align: center;
+
+  font-style: italic;
+}
+
+p {
+  font-size: 200%;
+  text-align: center;
+}
+.a {
+  text-align: center;
+}
